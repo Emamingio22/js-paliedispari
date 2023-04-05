@@ -1,0 +1,1 @@
+let parolaPalindroma = prompt ("inserisci una parola");
